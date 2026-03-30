@@ -124,14 +124,6 @@ const priyanshu = {
 
 ---
 
-### 📋 Student Attendance Management System
-> `Java` `NetBeans` `JDBC` `MySQL` `Swing GUI`
-
-- 🏫 Desktop system handling records for **200+ students** across multiple classes
-- ⚡ Automated attendance & percentage reporting, reducing manual effort by **~70%**
-- 🔍 Optimized SQL queries with average response time **under 300ms**
-
----
 
 ## 📊 GitHub Stats
 
