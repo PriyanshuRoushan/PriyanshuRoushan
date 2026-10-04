@@ -45,21 +45,6 @@ I have completed a full-stack internship, contributed to open source, and led te
 
 </div>
 
-## Featured work
-
-### [VISUM](https://github.com/PriyanshuRoushan/VISUM) · Driver drowsiness detection
-
-> A real-time driver-safety system that detects fatigue from facial landmarks and provides a live monitoring dashboard.
-
-`Python` `OpenCV` `MediaPipe` `React` `Node.js` `Firebase`
-
-- Processes video at **60 FPS** with under **40 ms** latency, using an Eye Aspect Ratio (EAR) detection approach.
-- Supports **10+ concurrent sessions** with real-time activity tracking and alerts.
-
-[View repository →](https://github.com/PriyanshuRoushan/VISUM) &nbsp;·&nbsp; [Watch demo →](https://youtu.be/aw5m4W250wk)
-
-> Additional featured projects will be added from the portfolio after their live links and details are verified.
-
 ## Experience
 
 ### Full Stack Trainee · [Prodecs IT](#)
